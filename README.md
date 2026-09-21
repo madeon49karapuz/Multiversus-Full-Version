@@ -237,4 +237,4 @@ This repository serves as the official landing page for MultiVersus. The softwar
 **Get the most recent version of MultiVersus today!**
 
 ---
-**Last updated:** 2026-09-20 22:21:29 UTC
+**Last updated:** 2026-09-21 00:58:35 UTC
